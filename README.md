@@ -1,5 +1,5 @@
 # jdbcsqlexport
-Java swing application that allows connecting to MS SQL Server, creating SQL queries, exporting results in xls, csv and jTable format.
+Java Swing application that allows connecting to MS SQL Server, creating SQL queries, exporting results in xls, csv and jTable format.
 On the main form, we can enter the parameters for the connection to SQL Server, SQL Queries and select the data export method. We can save the parameters for the connection to SQL Server and call them later
 ![Main Form](https://github.com/vladimirgligic/jdbcsqlexport/blob/pictures/MainForm.jpg?raw=true)
 
